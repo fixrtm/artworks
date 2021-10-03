@@ -10,5 +10,8 @@
   "bugs": {
     "url": "https://github.com/fixrtm/artworks/issues"
   },
-  "homepage": "https://github.com/fixrtm/artworks#readme"
+  "homepage": "https://github.com/fixrtm/artworks#readme",
+  "dependencies": {
+    "svg-text-to-path": "github:anatawa12/svg-text-to-path#anatawa12-master"
+  }
 }
