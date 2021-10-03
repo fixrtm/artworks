@@ -1,0 +1,14 @@
+{
+  "name": "artworks",
+  "version": "0.0.0",
+  "description": "fixRTM logo and other artworks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fixrtm/artworks.git"
+  },
+  "author": "anatawa12",
+  "bugs": {
+    "url": "https://github.com/fixrtm/artworks/issues"
+  },
+  "homepage": "https://github.com/fixrtm/artworks#readme"
+}
