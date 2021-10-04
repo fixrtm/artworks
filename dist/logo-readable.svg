@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="212.5" cy="214.511" rx="179.5" ry="172.511" fill="#4e9a9a"/>
+    <text x="111px" y="350.15px" font-family="LiberationSans-Italic,Arial-ItalicMT" font-size="98px">Mod</text>
+    <text x="111px" y="249.15px" font-family="LiberationSans-Italic,Arial-ItalicMT" font-size="98px">Train</text>
+    <text x="111px" y="148.15px" font-family="LiberationSans-Italic,Arial-ItalicMT" font-size="98px">Real</text>
+    <rect x="22" y="25" width="125" height="90" fill="#f10045"/>
+    <text x="34px" y="105.198px" font-family="LiberationSans,ArialMT" font-size="98px">ﬁx</text>
+</svg>
