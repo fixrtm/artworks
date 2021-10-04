@@ -13,7 +13,8 @@
   "homepage": "https://github.com/fixrtm/artworks#readme",
   "dependencies": {
     "opentype.js": "^1.3.3",
-    "svg-text-to-path": "github:anatawa12/svg-text-to-path#anatawa12-master"
+    "svg-text-to-path": "github:anatawa12/svg-text-to-path#anatawa12-master",
+    "svgo": "^2.7.0"
   },
   "devDependencies": {
     "@types/opentype.js": "^1.3.3"
