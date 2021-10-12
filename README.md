@@ -22,4 +22,12 @@ minified version
 
 ![rendered logo, minified](dist/logo-min.svg)
 
+The logo in circle.
+
+![rendered logo, in circle, for officially use](dist/logo-circle-full.svg)
+
+minified version
+
+![rendered logo, in circle, minified](dist/logo-circle-min.svg)
+
 [svg-text-to-path]: https://github.com/paulzi/svg-text-to-path
