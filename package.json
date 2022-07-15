@@ -13,7 +13,7 @@
   "homepage": "https://github.com/fixrtm/artworks#readme",
   "dependencies": {
     "opentype.js": "^1.3.3",
-    "svg-text-to-path": "^1.1.1",
+    "svg-text-to-path": "^1.1.4",
     "svgo": "^2.7.0"
   },
   "devDependencies": {
